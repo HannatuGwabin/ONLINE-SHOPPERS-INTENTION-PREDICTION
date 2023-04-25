@@ -75,6 +75,7 @@ May has the highest number of visited users with 27.3%, followed by November (24
 
 ![Correlation](https://user-images.githubusercontent.com/115185829/232252693-e14b21f5-747d-408a-b997-87ec470141b2.png)
 
+
 There is a strong correlation between BounceRates and ExitRates (0.91).
 
 There is a strong correlation between ProductRelated and ProductRelated_Duration (0.86).
@@ -86,16 +87,21 @@ There is a Moderate Correlation between Informational and Informational Duration
 There is a Moderate Correlation between Page Values and Revenue (0.49).
 
 
+# Model Performance
+
+
 ![RFC](https://user-images.githubusercontent.com/115185829/232252984-ee96dfd3-7933-4d84-9084-4c743164a98d.png)
 
 
- Three (3) learning classifiers (Random Forest, Decision Tree and Naive Bayes) were tested. The Random Forest Classifier had the best performance with an accuracy of 90% and F-1 Score of 62%.Random Forest Classifier has the best classification performance with an accuracy of 89% and F1 score of 62%.
+ Three (3) learning classifiers (Random Forest, Decision Tree and Naive Bayes) were tested. The Random Forest Classifier had the best performance with an accuracy of 89% and F-1 Score of 62%.
+ 
 
 
 ![download](https://user-images.githubusercontent.com/115185829/232253034-be92a68e-ad29-4794-ad65-60ff6587a5d2.png)
 
 
 The most significant feature in our dataset is PageValues since it correlates Moderately with our target variable (Revenue). This feature importance graph generally aligns with our correlation analysis.
+
 
 
 # Recommendations
