@@ -98,7 +98,7 @@ There is a Moderate Correlation between Page Values and Revenue (0.49).
 ![RFC](https://user-images.githubusercontent.com/115185829/232252984-ee96dfd3-7933-4d84-9084-4c743164a98d.png)
 
 
- Three (3) learning classifiers (Random Forest, Decision Tree and Naive Bayes) were tested. The Random Forest Classifier had the best performance with an accuracy of 89% and F-1 Score of 62%.
+ Three (3) learning classifiers (Random Forest, Decision Tree and Naive Bayes) were tested. The Random Forest Classifier had the best performance with an accuracy of 89% and F-1 Score of 63%.
  
 
 
